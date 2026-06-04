@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 yfinance
-pandas
-numpy
+pandas==2.0.3
+numpy==1.24.3
+
 
 
